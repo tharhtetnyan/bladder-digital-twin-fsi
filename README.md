@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/08_result_hero.jpg" width="800" alt="FSI Bladder Simulation Result"/>
+  <img src="docs/images/banner.jpg" width="800" alt="FSI Bladder Simulation Result"/>
 </p>
 
 <p align="center">

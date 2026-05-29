@@ -209,7 +209,7 @@ Refinement:    Level 3
 ### Step 5 — FSI Project Schematic (ANSYS Workbench)
 
 <p align="center">
-  <img src="docs/images/07_project_schematic.jpg" width="750" alt="ANSYS System Coupling Project Schematic"/>
+  <img src="docs/images/07_project_schematic.png" width="750" alt="ANSYS System Coupling Project Schematic"/>
 </p>
 
 The project couples three solvers via **ANSYS System Coupling (D)**:

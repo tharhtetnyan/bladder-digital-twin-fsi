@@ -180,7 +180,7 @@ Faces:     95,860
 The smoothed STL was imported into **ANSYS SpaceClaim** to add anatomical inlets/outlets and shell the bladder wall.
 
 <p align="center">
-  <img src="docs/images/06_geometry.jpg" width="750" alt="ANSYS SpaceClaim Bladder Geometry"/>
+  <img src="docs/images/03_geometry_grid.jpg" width="750" alt="ANSYS SpaceClaim Bladder Geometry"/>
 </p>
 
 | Feature | Value | Reference |
